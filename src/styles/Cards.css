@@ -16,17 +16,18 @@
     cursor: pointer;
     position: relative;
     text-align: center;
-
 }
 .card img {
     height: 100%;
     width: 100%;
     border-radius: 15px;
+    pointer-events: none;
 }
 .card h4 {
     position: absolute;
     bottom: 4px;
     left: 0px;
     right: 0px;
+    pointer-events: none;
 
 }
