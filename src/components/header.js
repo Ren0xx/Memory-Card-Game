@@ -5,7 +5,7 @@ const header = (props) => {
     return (
         <div className='header'>
             <div>
-                <h1>{props.title}</h1>
+                <h1>Hearthstone {props.title}</h1>
                 <p>Get points by clicking on an image but don't click on any more than once!</p>
             </div>
             <div>

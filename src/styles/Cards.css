@@ -4,16 +4,19 @@
     grid-template-rows: repeat(3, 1fr);
     row-gap: 2.5rem;
     column-gap: 1.5rem;
+    padding:25px;
+    background-color: #3e4451;
 }
 .card{ 
     display: flex;
     flex-flow: column nowrap;
-    height: 380px;
-    width: 250px;
+    height: 450px;
+    width: auto;
     border-radius: 15px;
+    border-color: #40513e;
     text-align: center;
     cursor: pointer;
-    
+    background-color: #40513e;
 }
 .card img {
     height: 100%;
@@ -26,7 +29,9 @@
 .card:hover {
     box-shadow: 0px 7px 12px 16px rgba(135, 163, 33, 0.63);
 }
-.card h4 {
+.card h3{
     pointer-events: none;
+    color: #fff;
+    letter-spacing: 2px;
 
 }

@@ -26,8 +26,8 @@ const App = () => {
         },
         {
             id: 3,
-            name: "Illidan",
-            image: IMAGES.illidan,
+            name: "C'thun, the Shattered",
+            image: IMAGES.cthun,
         },
         {
             id: 4,
@@ -36,18 +36,18 @@ const App = () => {
         },
         {
             id: 5,
-            name: "Kel'thuzad",
-            image: IMAGES.kel,
+            name: "Mordresh Fire Eye",
+            image: IMAGES.mord,
         },
         {
             id: 6,
-            name: "Lich King",
+            name: "The Lich King",
             image: IMAGES.lichKing,
         },
         {
             id: 7,
-            name: "Rexxar",
-            image: IMAGES.rexxar,
+            name: "Alexstrasza",
+            image: IMAGES.alex,
         },
         {
             id: 8,
@@ -56,17 +56,17 @@ const App = () => {
         },
         {
             id: 9,
-            name: "Thrall",
-            image: IMAGES.thrall,
+            name: "Al'Akir, the Windlord",
+            image: IMAGES.alakir,
         },
         {
             id: 10,
-            name: "Uther The Lightbringer",
-            image: IMAGES.uther,
+            name: "Tirion Fordring",
+            image: IMAGES.tirion,
         },
         {
             id: 11,
-            name: "Ysera the Dreamer",
+            name: "Ysera, Unleashed",
             image: IMAGES.ysera,
         },
     ]);

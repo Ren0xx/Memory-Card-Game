@@ -12,7 +12,7 @@ const cards = (props) => {
                         id={card.id}
                         onClick={props.check}>
                         <img alt='.' src={card.image} />
-                        <h4>{card.name}</h4>
+                        <h3>{card.name}</h3>
                     </button>
                 );
             })}

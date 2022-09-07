@@ -1,6 +1,10 @@
 .header{
     display: grid;
     grid-template-columns: 8fr 1fr;
+    background-color: #282c34;
+    padding: 25px;
+    color: #fff;
+    letter-spacing: 2px;
   }
   
   

@@ -7,28 +7,28 @@ import reportWebVitals from './reportWebVitals';
 import anub from "./media/photos/Anub.jpg";
 import DW from "./media/photos/Deathwing.jpg";
 import grommash from "./media/photos/Grommash.jpg";
-import illidan from "./media/photos/Illidan.jpg";
+import cthun from "./media/photos/Cthun.jpg";
 import jaraxxus from "./media/photos/jaraxxus.jpg";
-import kel from "./media/photos/Kel.jpg"
+import mord from "./media/photos/Mordresh.jpg"
 import lichK from "./media/photos/Lich.jpg";
-import rexxar from "./media/photos/Rexxar.jpg";
+import alex from "./media/photos/Alex.jpg";
 import sylv from "./media/photos/Sylvannas.jpg";
-import thrall from "./media/photos/Thrall.jpg";
-import uther from "./media/photos/uther.jpg";
+import alakir from "./media/photos/Alakir.jpg";
+import tirion from "./media/photos/Tirion.jpg";
 import ysera from "./media/photos/Ysera.jpg"
 
 const IMAGES = {
   anub: anub,
   deathwing: DW,
   grommash: grommash,
-  illidan: illidan,
+  cthun: cthun,
   jaraxxus: jaraxxus,
-  kel: kel,
+  mord: mord,
   lichKing: lichK,
-  rexxar: rexxar,
+  alex: alex,
   sylvanas: sylv,
-  thrall: thrall,
-  uther: uther,
+  alakir: alakir,
+  tirion: tirion,
   ysera: ysera,
 }
 
