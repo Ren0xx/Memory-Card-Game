@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ren0xx/Memory-Card-Game/static/css/main.2d6915aa.css",
+    "main.js": "/Ren0xx/Memory-Card-Game/static/js/main.2f0c8b68.js",
+    "static/js/787.079dd69e.chunk.js": "/Ren0xx/Memory-Card-Game/static/js/787.079dd69e.chunk.js",
+    "static/media/Alakir.jpg": "/Ren0xx/Memory-Card-Game/static/media/Alakir.aeb4b6892639540e54fa.jpg",
+    "static/media/Lich.jpg": "/Ren0xx/Memory-Card-Game/static/media/Lich.67c29771116375b150cf.jpg",
+    "static/media/Grommash.jpg": "/Ren0xx/Memory-Card-Game/static/media/Grommash.c093fc9654f843db7f5c.jpg",
+    "static/media/Cthun.jpg": "/Ren0xx/Memory-Card-Game/static/media/Cthun.a81469e4c2cac7f20f17.jpg",
+    "static/media/Tirion.jpg": "/Ren0xx/Memory-Card-Game/static/media/Tirion.ef5697ca1402df371d86.jpg",
+    "static/media/Ysera.jpg": "/Ren0xx/Memory-Card-Game/static/media/Ysera.e9b4224d9814435212f7.jpg",
+    "static/media/Mordresh.jpg": "/Ren0xx/Memory-Card-Game/static/media/Mordresh.672a36e71cc50466fcb4.jpg",
+    "static/media/Anub.jpg": "/Ren0xx/Memory-Card-Game/static/media/Anub.d6a0eb5bc679b8277982.jpg",
+    "static/media/Alex.jpg": "/Ren0xx/Memory-Card-Game/static/media/Alex.14ba3ffd4655036b480e.jpg",
+    "static/media/Sylvannas.jpg": "/Ren0xx/Memory-Card-Game/static/media/Sylvannas.f8ff867ea033e0041f11.jpg",
+    "static/media/Deathwing.jpg": "/Ren0xx/Memory-Card-Game/static/media/Deathwing.1d2346205dff37b7c17b.jpg",
+    "static/media/jaraxxus.jpg": "/Ren0xx/Memory-Card-Game/static/media/jaraxxus.e3438dcece5c466cdf0c.jpg",
+    "index.html": "/Ren0xx/Memory-Card-Game/index.html",
+    "main.2d6915aa.css.map": "/Ren0xx/Memory-Card-Game/static/css/main.2d6915aa.css.map",
+    "main.2f0c8b68.js.map": "/Ren0xx/Memory-Card-Game/static/js/main.2f0c8b68.js.map",
+    "787.079dd69e.chunk.js.map": "/Ren0xx/Memory-Card-Game/static/js/787.079dd69e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6915aa.css",
+    "static/js/main.2f0c8b68.js"
+  ]
+}
